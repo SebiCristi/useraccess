@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1446665172 source:d:\tmp2\codeblocks\userrights\userrights\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<map>
+	"User.h"
+	"StaticMapUserProvider.h"
+	"DBUserProvider.h"
+
+1446663322 d:\tmp2\codeblocks\userrights\userrights\include\user.h
+	<string>
+
+1446663313 source:d:\tmp2\codeblocks\userrights\userrights\src\user.cpp
+	"User.h"
+	"UserProvider.h"
+	<iostream>
+	<map>
+
+1446665032 d:\tmp2\codeblocks\userrights\userrights\include\userprovider.h
+	"User.h"
+	<map>
+
+1446663381 source:d:\tmp2\codeblocks\userrights\userrights\src\userprovider.cpp
+	"UserProvider.h"
+
+1446664457 d:\tmp2\codeblocks\userrights\userrights\include\staticmapuserprovider.h
+	"UserProvider.h"
+
+1446665457 source:d:\tmp2\codeblocks\userrights\userrights\src\staticmapuserprovider.cpp
+	"StaticMapUserProvider.h"
+
+1446665137 d:\tmp2\codeblocks\userrights\userrights\include\dbuserprovider.h
+	"UserProvider.h"
+
+1446665158 source:d:\tmp2\codeblocks\userrights\userrights\src\dbuserprovider.cpp
+	"DBUserProvider.h"
+
+1448390551 source:d:\project\testestonesw\userrights\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<map>
+	"User.h"
+	"StaticMapUserProvider.h"
+	"DBUserProvider.h"
+	"Wiki.h"
+
+1448391061 d:\project\testestonesw\userrights\include\user.h
+	<string>
+
+1446664457 d:\project\testestonesw\userrights\include\staticmapuserprovider.h
+	"UserProvider.h"
+
+1446665032 d:\project\testestonesw\userrights\include\userprovider.h
+	"User.h"
+	<map>
+
+1447786833 d:\project\testestonesw\userrights\include\dbuserprovider.h
+	"UserProvider.h"
+
+1448390499 source:d:\project\testestonesw\userrights\src\user.cpp
+	"User.h"
+	"UserProvider.h"
+	<iostream>
+	<map>
+
+1446665477 source:d:\project\testestonesw\userrights\src\dbuserprovider.cpp
+	"DBUserProvider.h"
+
+1447791358 source:d:\project\testestonesw\userrights\src\staticmapuserprovider.cpp
+	"StaticMapUserProvider.h"
+
+1448390972 d:\project\testestonesw\userrights\include\wiki.h
+	"User.h"
+	<string>
+	<vector>
+	<map>
+
